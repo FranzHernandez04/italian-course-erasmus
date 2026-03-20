@@ -52,8 +52,8 @@ export default defineConfig({
     returnToTopLabel: 'Torna su',
     socialLinks: [],
     footer: {
-      message: 'Corso di Italiano Avanzato per Erasmus',
-      copyright: '© 2026 — Tutti i diritti riservati',
+      message: `© ${new Date().getFullYear()} — Tutti i diritti riservati`,
+      copyright: 'Made with ❤️ by <a href="https://franzhernandez.it/" target="_blank">Franz Hernandez</a>',
     },
   },
 })

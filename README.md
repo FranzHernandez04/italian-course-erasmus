@@ -28,3 +28,7 @@ npm run preview   # preview del build
 ## Deploy
 
 Output directory: `docs/.vitepress/dist`
+
+---
+
+Made with ❤️ by [Franz Hernandez](https://franzhernandez.it/)

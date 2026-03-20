@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/italian-course-erasmus/',
   title: 'Italiano per Erasmus',
   description: 'Corso di italiano avanzato per studenti Erasmus',
   lang: 'it-IT',

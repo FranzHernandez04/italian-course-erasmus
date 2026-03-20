@@ -209,7 +209,7 @@ Si usa nelle frasi subordinate per esprimere **opinioni, dubbi, desideri, emozio
 
 ### 10. SAPERE — to know
 
-> ***Sai** dov'è la stazione? Non **sapevo** che eri qui!*
+> ***Sai** dov'è la stazione? Non **sapevo** che fossi qui!*
 
 | Presente | Passato prossimo | Imperfetto | Futuro | Condizionale | Congiuntivo pres. |
 |---|---|---|---|---|---|

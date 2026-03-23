@@ -56,7 +56,7 @@ features:
 ## Tutte le lezioni
 
 <div class="lesson-grid">
-  <a class="lesson-card" href="/lezioni/01-verbi-irregolari">
+  <a class="lesson-card" href="./lezioni/01-verbi-irregolari">
     <div class="num">Lezione 01</div>
     <h3>I verbi irregolari</h3>
     <p>I 10 verbi irregolari più usati: essere, avere, fare, andare... con tutti i tempi verbali e esempi pratici.</p>

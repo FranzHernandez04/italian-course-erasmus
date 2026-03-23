@@ -302,9 +302,6 @@ Seguono lo stesso modello: *avvenire, convenire, divenire, intervenire*.
 | voi | uscite | siete usciti/e | uscivate | uscirete | uscireste | usciate |
 | loro | escono | sono usciti/e | uscivano | usciranno | uscirebbero | escano |
 
-::: tip Verbo simile: SALIRE (to go up)
-Presente: *salgo, sali, sale, saliamo, salite, salgono* — Congiuntivo: *salga, salgano*
-:::
 
 ---
 

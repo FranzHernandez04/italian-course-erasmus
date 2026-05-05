@@ -21,6 +21,7 @@ export default defineConfig({
           text: 'Lezioni',
           items: [
             { text: '01 - Verbi irregolari', link: '/lezioni/01-verbi-irregolari' },
+            { text: '02 - Gesti e modi di dire', link: '/lezioni/02-gesti-modi-di-dire' },
           ],
         },
       ],

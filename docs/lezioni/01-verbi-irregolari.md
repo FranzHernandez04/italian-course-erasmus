@@ -716,7 +716,7 @@ Collega il verbo alla sua famiglia:
 
 ## Materiale aggiuntivo
 
-- <a href="/pdf/verbi-irregolari-pearson.pdf" target="_blank">Tabella completa verbi irregolari (Pearson)</a>
-- <a href="/pdf/principali-verbi-irregolari-balboni.pdf" target="_blank">Principali verbi irregolari per famiglie (Balboni)</a>
-- <a href="/pdf/verbi-irregolari-presente.pdf" target="_blank">Verbi irregolari al presente indicativo</a>
-- <a href="/pdf/verbi-irregolari-passato-futuro.pdf" target="_blank">Verbi irregolari — Passato prossimo e futuro</a>
+- <a href="/italian-course-erasmus/pdf/verbi-irregolari-pearson.pdf" target="_blank">Tabella completa verbi irregolari (Pearson)</a>
+- <a href="/italian-course-erasmus/pdf/principali-verbi-irregolari-balboni.pdf" target="_blank">Principali verbi irregolari per famiglie (Balboni)</a>
+- <a href="/italian-course-erasmus/pdf/verbi-irregolari-presente.pdf" target="_blank">Verbi irregolari al presente indicativo</a>
+- <a href="/italian-course-erasmus/pdf/verbi-irregolari-passato-futuro.pdf" target="_blank">Verbi irregolari — Passato prossimo e futuro</a>

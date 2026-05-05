@@ -61,4 +61,9 @@ features:
     <h3>I verbi irregolari</h3>
     <p>I 10 verbi irregolari più usati: essere, avere, fare, andare... con tutti i tempi verbali e esempi pratici.</p>
   </a>
+  <a class="lesson-card" href="./lezioni/02-gesti-modi-di-dire">
+    <div class="num">Lezione 02</div>
+    <h3>I gesti italiani e i modi di dire</h3>
+    <p>I gesti più caratteristici della comunicazione italiana e le espressioni idiomatiche più usate, con origine e esempi.</p>
+  </a>
 </div>

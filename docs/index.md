@@ -66,4 +66,9 @@ features:
     <h3>I gesti italiani e i modi di dire</h3>
     <p>I gesti più caratteristici della comunicazione italiana e le espressioni idiomatiche più usate, con origine e esempi.</p>
   </a>
+  <a class="lesson-card" href="./lezioni/03-congiunzioni-condizionale-congiuntivo">
+    <div class="num">Lezione 03</div>
+    <h3>Congiunzioni, condizionale e congiuntivo</h3>
+    <p>Le principali congiunzioni coordinanti e subordinanti, i connettivi testuali e un'introduzione pratica al condizionale e al congiuntivo.</p>
+  </a>
 </div>

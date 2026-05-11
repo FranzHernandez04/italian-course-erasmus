@@ -22,6 +22,14 @@ Qui trovi tutti i PDF e i materiali delle lezioni da scaricare e consultare offl
 | Modi di dire italiani — foglio di lavoro | <a href="/italian-course-erasmus/pdf/modi-di-dire.pdf" target="_blank">Scarica PDF</a> |
 | Allegato B1: Comprensione scritta — La storia di Ferrero e la Nutella | <a href="/italian-course-erasmus/pdf/nutella-comprensione-b1.pdf" target="_blank">Scarica PDF</a> |
 
+### Lezione 03 — Congiunzioni, condizionale e congiuntivo
+
+| Materiale | Download |
+|---|---|
+| I connettori (congiunzioni) — scheda riassuntiva | <a href="/italian-course-erasmus/pdf/connettori-congiunzioni.pdf" target="_blank">Scarica PDF</a> |
+| La congiunzione — teoria approfondita | <a href="/italian-course-erasmus/pdf/congiunzione-teoria.pdf" target="_blank">Scarica PDF</a> |
+| Il congiuntivo — uso e formazione | <a href="/italian-course-erasmus/pdf/congiuntivo-teoria.pdf" target="_blank">Scarica PDF</a> |
+
 ::: info Nota
 I PDF verranno aggiornati durante il corso. Controlla regolarmente questa pagina per le versioni più recenti!
 :::

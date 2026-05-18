@@ -23,6 +23,7 @@ export default defineConfig({
             { text: '01 - Verbi irregolari', link: '/lezioni/01-verbi-irregolari' },
             { text: '02 - Gesti e modi di dire', link: '/lezioni/02-gesti-modi-di-dire' },
             { text: '03 - Congiunzioni, condizionale e congiuntivo', link: '/lezioni/03-congiunzioni-condizionale-congiuntivo' },
+            { text: '04 - Italiano di tutti i giorni', link: '/lezioni/04-italiano-quotidiano' },
           ],
         },
       ],

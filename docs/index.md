@@ -71,4 +71,9 @@ features:
     <h3>Congiunzioni, condizionale e congiuntivo</h3>
     <p>Le principali congiunzioni coordinanti e subordinanti, i connettivi testuali e un'introduzione pratica al condizionale e al congiuntivo.</p>
   </a>
+  <a class="lesson-card" href="./lezioni/04-italiano-quotidiano">
+    <div class="num">Lezione 04</div>
+    <h3>L'italiano di tutti i giorni</h3>
+    <p>Espressioni, modi di dire e role-play per lavoro, supermercato, bar e strada. Con produzione scritta finale sull'esperienza Erasmus.</p>
+  </a>
 </div>

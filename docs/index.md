@@ -76,4 +76,9 @@ features:
     <h3>L'italiano di tutti i giorni</h3>
     <p>Espressioni, modi di dire e role-play per lavoro, supermercato, bar e strada. Con produzione scritta finale sull'esperienza Erasmus.</p>
   </a>
+  <a class="lesson-card" href="./test-finale" style="border-color: var(--vp-c-brand-1);">
+    <div class="num">📝 Verifica finale</div>
+    <h3>Test finale del corso</h3>
+    <p>20 domande a risposta multipla su tutto il corso. Punteggio immediato, tentativi multipli, revisione delle risposte.</p>
+  </a>
 </div>

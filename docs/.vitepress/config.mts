@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Lezioni', link: '/lezioni/01-verbi-irregolari' },
+      { text: 'Test finale', link: '/test-finale' },
       { text: 'Risorse', link: '/risorse/link-utili' },
     ],
     sidebar: {
